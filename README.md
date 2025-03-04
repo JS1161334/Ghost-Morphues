@@ -1,2 +1,4 @@
 # Ghost-Morphues
 Hey there! This is where my coding journey begins. In this repository, you'll find my initial projects and experiments as I dive into the world of software development. I'm excited to learn, grow, and share my progress with you all. Stay tuned for some cool projects and feel free to join me on this adventure. Let's make something awesome together!
+
+I'm currently majoring in Computer Science and have a deep passion for coding and algorithms. Ever since the days of the Nintendo 64, I've been fascinated by video games and have always dreamed of creating my own. I'm particularly interested in the video game industry and am eager to bring my ideas to life. Beyond game development, I love exploring different areas of software engineering, from web development to artificial intelligence. I'm always on the lookout for new technologies to learn and ways to improve my skills.
